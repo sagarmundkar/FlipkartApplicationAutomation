@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.testng:testng:7.1.0'
+    implementation 'org.testng:testng:7.1.0'
+    implementation 'org.jetbrains:annotations:20.1.0'
+    testImplementation group: 'org.testng', name: 'testng', version: '7.4.0'
+    implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version: '4.3.1'
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.0.0-beta-4'
+    implementation group: 'org.slf4j', name: 'slf4j-api', version: '2.0.0-alpha1'
+    testImplementation group: 'org.slf4j', name: 'slf4j-simple', version: '2.0.0-alpha0'
+
+}
+
+test {
+    useTestNG()
+}
