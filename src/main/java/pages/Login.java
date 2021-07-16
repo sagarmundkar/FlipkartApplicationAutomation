@@ -1,6 +1,7 @@
 package pages;
 
 import com.flipkart.test.BaseProgram;
+import listeners.ListenerTest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -28,7 +29,7 @@ public class Login extends BaseProgram {
 
     public void LoginApplication() throws InterruptedException {
         logger.info("Enter Email/Mobile No");
-        MobileNo.sendKeys("*********");
+        MobileNo.sendKeys("*******");
         Thread.sleep(2000);
         logger.info("Enter Password");
         Password.sendKeys("*******");

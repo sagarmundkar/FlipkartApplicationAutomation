@@ -1,6 +1,8 @@
 package com.flopkart.test;
 
 import com.flipkart.test.BaseProgram;
+import listeners.ListenerTest;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 import pages.Home;
 import pages.Login;
@@ -8,6 +10,8 @@ import pages.Logout;
 import pages.Registration;
 
 import java.awt.*;
+
+@Listeners(ListenerTest.class)
 
 public class TestPages extends BaseProgram {
     @Test

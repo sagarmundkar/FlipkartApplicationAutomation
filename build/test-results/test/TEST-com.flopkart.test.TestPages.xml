@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.flopkart.test.TestPages" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-16T10:25:25" hostname="DESKTOP-4HUJE76" time="12.836">
+<testsuite name="com.flopkart.test.TestPages" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-16T10:50:03" hostname="DESKTOP-4HUJE76" time="8.441">
   <properties/>
-  <testcase name="Home" classname="com.flopkart.test.TestPages" time="12.836"/>
-  <system-out><![CDATA[[INFO ] 2021-07-16 15:55:25.938 [Test worker] Login - Enter Email/Mobile No
-[INFO ] 2021-07-16 15:55:28.083 [Test worker] Login - Enter Password
-[INFO ] 2021-07-16 15:55:30.200 [Test worker] Login - click on login button
-[INFO ] 2021-07-16 15:55:32.717 [Test worker] Login - Enter product name to search
-[INFO ] 2021-07-16 15:55:34.884 [Test worker] Login - Click on search
+  <testcase name="Login" classname="com.flopkart.test.TestPages" time="8.441"/>
+  <system-out><![CDATA[Test is starting:Login
+[INFO ] 2021-07-16 16:20:05.713 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-16 16:20:07.892 [Test worker] Login - Enter Password
+[INFO ] 2021-07-16 16:20:10.119 [Test worker] Login - click on login button
+The name of the testcase passed is :Login
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
