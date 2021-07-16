@@ -1,6 +1,8 @@
 package pages;
 
 import com.flipkart.test.BaseProgram;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -11,6 +13,8 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 
 public class Logout extends BaseProgram {
+    Logger logger = LogManager.getLogger(Login.class);
+
 
     @FindBy(xpath = "//*[contains(text(),'Logout')]")
     WebElement logOut;
@@ -24,6 +28,7 @@ public class Logout extends BaseProgram {
         r.mouseMove(988,26);
         r.keyPress(KeyEvent.VK_TAB);
         r.keyRelease(KeyEvent.VK_TAB);
+        logger.info("Click on logout button");
         logOut.click();
         Thread.sleep(2000);
 

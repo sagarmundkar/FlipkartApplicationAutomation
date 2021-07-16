@@ -1,4 +1,2 @@
-com/flopkart/test/InternetConnectionTest.java
- com.flopkart.test.InternetConnectionTest
 com/flopkart/test/TestPages.java
  com.flopkart.test.TestPages

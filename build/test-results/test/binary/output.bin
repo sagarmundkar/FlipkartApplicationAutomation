@@ -1,0 +1,5 @@
+M[INFO ] 2021-07-16 15:55:25.938 [Test worker] Login - Enter Email/Mobile No
+F[INFO ] 2021-07-16 15:55:28.083 [Test worker] Login - Enter Password
+M[INFO ] 2021-07-16 15:55:30.200 [Test worker] Login - click on login button
+T[INFO ] 2021-07-16 15:55:32.717 [Test worker] Login - Enter product name to search
+G[INFO ] 2021-07-16 15:55:34.884 [Test worker] Login - Click on search
