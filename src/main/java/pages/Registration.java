@@ -36,13 +36,13 @@ public class Registration extends BaseProgram {
         CreateAccount.click();
         Thread.sleep(2000);
         logger.info("Enter Email/Mobile No");
-        MobileNo.sendKeys("*********");
+        MobileNo.sendKeys("7218571150");
         Thread.sleep(3000);
         logger.info("Click on continue button");
         Continue.click();
         Thread.sleep(2000);
         logger.info("Enter Password");
-        Password.sendKeys("*******");
+        Password.sendKeys("Sagar@12345");
         Thread.sleep(2000);
         logger.info("Click on login ");
         Login.click();

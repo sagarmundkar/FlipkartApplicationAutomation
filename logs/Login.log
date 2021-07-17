@@ -27,3 +27,70 @@
 [INFO ] 2021-07-16 16:20:05.713 [Test worker] Login - Enter Email/Mobile No
 [INFO ] 2021-07-16 16:20:07.892 [Test worker] Login - Enter Password
 [INFO ] 2021-07-16 16:20:10.119 [Test worker] Login - click on login button
+[INFO ] 2021-07-16 16:47:42.599 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-16 16:47:44.909 [Test worker] Login - Enter Password
+[INFO ] 2021-07-16 16:47:47.031 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 12:30:05.931 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 12:30:08.738 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 12:30:10.960 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 12:30:14.772 [Test worker] Login - Click on logout button
+[INFO ] 2021-07-17 12:31:08.072 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 12:31:10.261 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 12:31:12.458 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 12:31:16.571 [Test worker] Login - Click on logout button
+[INFO ] 2021-07-17 13:10:02.633 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:10:04.857 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:10:06.992 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:10:12.084 [Test worker] Login - Click on logout button
+[INFO ] 2021-07-17 13:11:21.507 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:11:23.666 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:11:25.838 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:11:31.037 [Test worker] Login - Click on logout button
+[INFO ] 2021-07-17 13:13:18.320 [main] Login - Create new account
+[INFO ] 2021-07-17 13:13:20.704 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:13:23.860 [main] Login - Click on continue button
+[INFO ] 2021-07-17 13:13:25.964 [main] Login - Enter Password
+[INFO ] 2021-07-17 13:13:26.389 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:13:27.237 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:13:27.533 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:15:56.321 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:18:50.478 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:18:52.639 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:18:54.769 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:19:48.835 [main] Login - Create new account
+[INFO ] 2021-07-17 13:19:51.182 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:19:54.319 [main] Login - Click on continue button
+[INFO ] 2021-07-17 13:19:56.441 [main] Login - Enter Password
+[INFO ] 2021-07-17 13:19:56.935 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:19:57.303 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:19:57.546 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:20:24.806 [Test worker] Login - Create new account
+[INFO ] 2021-07-17 13:20:27.233 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:20:30.370 [Test worker] Login - Click on continue button
+[INFO ] 2021-07-17 13:20:32.440 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:22:08.539 [main] Login - Create new account
+[INFO ] 2021-07-17 13:22:10.888 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:22:13.995 [main] Login - Click on continue button
+[INFO ] 2021-07-17 13:22:16.082 [main] Login - Enter Password
+[INFO ] 2021-07-17 13:22:18.248 [main] Login - Click on login 
+[INFO ] 2021-07-17 13:22:21.450 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:22:21.778 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:22:22.084 [main] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:23:43.357 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:23:45.609 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:23:47.766 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:24:24.276 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:24:26.418 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:24:28.577 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:24:31.461 [Test worker] Login - Enter product name to search
+[INFO ] 2021-07-17 13:24:33.608 [Test worker] Login - Click on search
+[INFO ] 2021-07-17 13:47:12.898 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 13:47:15.041 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 13:47:17.242 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 13:47:20.047 [Test worker] Login - Enter product name to search
+[INFO ] 2021-07-17 13:47:22.223 [Test worker] Login - Click on search
+[INFO ] 2021-07-17 15:41:56.127 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 15:41:58.307 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 15:42:00.467 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 15:42:02.730 [Test worker] Login - Enter product name to search
+[INFO ] 2021-07-17 15:42:04.912 [Test worker] Login - Click on search

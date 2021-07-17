@@ -1,2 +1,2 @@
-com/flopkart/test/TestPages.java
- com.flopkart.test.TestPages
+com/flipkart/test/TestPages.java
+ com.flipkart.test.TestPages

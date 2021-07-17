@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flipkart.test.TestPages" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-17T10:11:54" hostname="DESKTOP-4HUJE76" time="13.107">
+  <properties/>
+  <testcase name="Home" classname="com.flipkart.test.TestPages" time="13.107"/>
+  <system-out><![CDATA[Test is starting:Home
+[INFO ] 2021-07-17 15:41:56.127 [Test worker] Login - Enter Email/Mobile No
+[INFO ] 2021-07-17 15:41:58.307 [Test worker] Login - Enter Password
+[INFO ] 2021-07-17 15:42:00.467 [Test worker] Login - click on login button
+[INFO ] 2021-07-17 15:42:02.730 [Test worker] Login - Enter product name to search
+[INFO ] 2021-07-17 15:42:04.912 [Test worker] Login - Click on search
+The name of the testcase passed is :Home
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
