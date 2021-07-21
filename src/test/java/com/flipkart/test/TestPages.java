@@ -1,6 +1,4 @@
 package com.flipkart.test;
-
-import com.flipkart.test.BaseProgram;
 import io.qameta.allure.*;
 import jdk.jfr.Description;
 import listeners.ListenerTest;

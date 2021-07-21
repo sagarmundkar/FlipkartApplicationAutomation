@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import utility.ScreenRecording;
 
 
 public class Registration extends BaseProgram {
@@ -32,6 +33,8 @@ public class Registration extends BaseProgram {
         PageFactory.initElements(drive,this);
     }
     public void registration() throws InterruptedException {
+        ScreenRecording.startRecord("Registration");
+
         logger.info("Create new account");
         CreateAccount.click();
         Thread.sleep(2000);
@@ -47,5 +50,7 @@ public class Registration extends BaseProgram {
         logger.info("Click on login ");
         Login.click();
         Thread.sleep(2000);
+        ScreenRecording.stopRecord();
+
     }
 }

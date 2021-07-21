@@ -9,6 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import utility.ScreenRecording;
 
 import java.awt.*;
 import java.awt.event.KeyEvent;
@@ -27,12 +28,16 @@ public class Logout extends BaseProgram {
     }
 
     public void LogoutApplocation() throws InterruptedException, AWTException {
+        ScreenRecording.startRecord("LogoutApplication");
+
         Actions actions = new Actions(this.driver);
         actions.moveToElement(this.sagar).build().perform();
         Thread.sleep(2000);
         actions.moveToElement(this.logOut).click().perform();
         logger.info("Click on logout button");
         Thread.sleep(3000);
+        ScreenRecording.stopRecord();
+
 
     }
 }

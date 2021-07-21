@@ -7,6 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import utility.ScreenRecording;
 
 public class Home extends BaseProgram {
     Logger logger = LogManager.getLogger(Login.class);
@@ -22,11 +23,14 @@ public class Home extends BaseProgram {
     }
 
     public void SearchProduct() throws InterruptedException {
+        ScreenRecording.startRecord("Home");
+
         logger.info("Enter product name to search");
         searchProduct.sendKeys("Mobile");
         Thread.sleep(2000);
         logger.info("Click on search");
         Search.click();
         Thread.sleep(3000);
+        ScreenRecording.stopRecord();
     }
 }

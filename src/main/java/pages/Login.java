@@ -8,6 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
+import utility.ScreenRecording;
 
 public class Login extends BaseProgram {
     Logger logger = LogManager.getLogger(Login.class);
@@ -27,9 +28,10 @@ public class Login extends BaseProgram {
     }
 
     public void LoginApplication() throws InterruptedException {
+        ScreenRecording.startRecord("LoginApplication");
         logger.info("Enter Email/Mobile No");
         MobileNo.sendKeys("7218571150");
-        Thread.sleep(2000);
+        Thread.sleep(3000);
         logger.info("Enter Password");
         Password.sendKeys("Sagar@12345");
         Thread.sleep(2000);
@@ -41,6 +43,7 @@ public class Login extends BaseProgram {
         String expectedUrl = driver.getCurrentUrl();
         Assert.assertEquals(expectedUrl,actualUrl);
 
+        ScreenRecording.stopRecord();
 
     }
 }
