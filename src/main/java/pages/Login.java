@@ -30,10 +30,10 @@ public class Login extends BaseProgram {
     public void LoginApplication() throws InterruptedException {
         ScreenRecording.startRecord("LoginApplication");
         logger.info("Enter Email/Mobile No");
-        MobileNo.sendKeys("7218571150");
+        MobileNo.sendKeys("*******");
         Thread.sleep(3000);
         logger.info("Enter Password");
-        Password.sendKeys("Sagar@12345");
+        Password.sendKeys("*******");
         Thread.sleep(2000);
         logger.info("click on login button");
         Login.click();

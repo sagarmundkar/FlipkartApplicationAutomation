@@ -1,16 +1,16 @@
+utility/ScreenRecording.java
+ utility.ScreenRecording
 utility/CaptureScreenshot.java
  utility.CaptureScreenshot
 listeners/ListenerTest.java
  listeners.ListenerTest
-com/flipkart/test/BaseProgram.java
- com.flipkart.test.BaseProgram
-utility/ScreenRecording.java
- utility.ScreenRecording
+pages/Home.java
+ pages.Home
+pages/Registration.java
+ pages.Registration
 pages/Logout.java
  pages.Logout
 pages/Login.java
  pages.Login
-pages/Registration.java
- pages.Registration
-pages/Home.java
- pages.Home
+com/flipkart/test/BaseProgram.java
+ com.flipkart.test.BaseProgram

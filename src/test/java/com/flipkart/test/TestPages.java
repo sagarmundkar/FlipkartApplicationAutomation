@@ -64,5 +64,4 @@ public class TestPages extends BaseProgram {
         Logout logout = new Logout(driver);
         logout.LogoutApplocation();
     }
-
 }

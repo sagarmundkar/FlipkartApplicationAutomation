@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.flipkart.test.TestBrokenLink" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-24T10:28:37" hostname="DESKTOP-4HUJE76" time="295.988">
+  <properties/>
+  <testcase name="brokenLink" classname="com.flipkart.test.TestBrokenLink" time="295.988"/>
+  <system-out><![CDATA[https://www.flipkart.com/
+https://www.flipkart.com/ is a valid link
+https://www.flipkart.com/plus
+https://www.flipkart.com/plus is a valid link
+https://www.flipkart.com/account/login?ret=/
+https://www.flipkart.com/account/login?ret=/ is a valid link
+https://www.flipkart.com/viewcart?otracker=Cart_Icon_Click
+https://www.flipkart.com/viewcart?otracker=Cart_Icon_Click is a valid link
+https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.G6ZC4RAJ9OHU&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Top%2BOffers_G6ZC4RAJ9OHU&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=G6ZC4RAJ9OHU
+https://www.flipkart.com/offers-store?otracker=nmenu_offer-zone&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.G6ZC4RAJ9OHU&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Top%2BOffers_G6ZC4RAJ9OHU&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=G6ZC4RAJ9OHU is a valid link
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.CBUR1Q46W5F1&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Grocery_CBUR1Q46W5F1&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=CBUR1Q46W5F1
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.CBUR1Q46W5F1&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Grocery_CBUR1Q46W5F1&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=CBUR1Q46W5F1 is a valid link
+https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.ZRQ4DKH28K8J&otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Mobiles_ZRQ4DKH28K8J&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L0_view-all&cid=ZRQ4DKH28K8J
+https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.ZRQ4DKH28K8J&otracker=hp_rich_navigation_3_1.navigationCard.RICH_NAVIGATION_Mobiles_ZRQ4DKH28K8J&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_3_L0_view-all&cid=ZRQ4DKH28K8J is a valid link
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+null
+URL is either not configured for anchor tag or it is empty
+https://www.flipkart.com/travel/flights?param=DTNavIcon&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.V4ZPKTOAO321&otracker=hp_rich_navigation_8_1.navigationCard.RICH_NAVIGATION_Travel_V4ZPKTOAO321&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_8_L0_view-all&cid=V4ZPKTOAO321
+https://www.flipkart.com/travel/flights?param=DTNavIcon&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_1_372UD5BXDFYS_MC.V4ZPKTOAO321&otracker=hp_rich_navigation_8_1.navigationCard.RICH_NAVIGATION_Travel_V4ZPKTOAO321&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_8_L0_view-all&cid=V4ZPKTOAO321 is a valid link
+null
+URL is either not configured for anchor tag or it is empty
+https://www.flipkart.com/furniture-india-ka-furniture-store?otracker=hp_bannerads_4_3.bannerAdCard.BANNERADS_Furniture%2BBestsellers_0DAK4IGS8ZBP
+https://www.flipkart.com/furniture-india-ka-furniture-store?otracker=hp_bannerads_4_3.bannerAdCard.BANNERADS_Furniture%2BBestsellers_0DAK4IGS8ZBP is a valid link
+https://www.flipkart.com/big-savings-days-store?otracker=hp_bannerads_1_3.bannerAdCard.BANNERADS_x_IXDMWG58JR9S
+https://www.flipkart.com/big-savings-days-store?otracker=hp_bannerads_1_3.bannerAdCard.BANNERADS_x_IXDMWG58JR9S is a valid link
+https://www.flipkart.com/tyy/4io/~cs-7end7xmzje/pr?sid=tyy%2C4io&collection-tab-name=POCO+F3+GT+Series&param=905600&otracker=hp_bannerads_2_3.bannerAdCard.BANNERADS_Poco%2BF3-preorder%2Bnow_HJVQLKCZ0VUC
+https://www.flipkart.com/tyy/4io/~cs-7end7xmzje/pr?sid=tyy%2C4io&collection-tab-name=POCO+F3+GT+Series&param=905600&otracker=hp_bannerads_2_3.bannerAdCard.BANNERADS_Poco%2BF3-preorder%2Bnow_HJVQLKCZ0VUC is a valid link
+https://www.flipkart.com/audio-video/~cs-gsd80mq3y8/pr?sid=0pm&collection-tab-name=DEFY&otracker=hp_bannerads_3_3.bannerAdCard.BANNERADS_Defy_9G03DHG81LWR
+https://www.flipkart.com/audio-video/~cs-gsd80mq3y8/pr?sid=0pm&collection-tab-name=DEFY&otracker=hp_bannerads_3_3.bannerAdCard.BANNERADS_Defy_9G03DHG81LWR is a valid link
+https://www.flipkart.com/furniture-india-ka-furniture-store?otracker=hp_bannerads_4_3.bannerAdCard.BANNERADS_Furniture%2BBestsellers_0DAK4IGS8ZBP
+https://www.flipkart.com/furniture-india-ka-furniture-store?otracker=hp_bannerads_4_3.bannerAdCard.BANNERADS_Furniture%2BBestsellers_0DAK4IGS8ZBP is a valid link
+https://www.flipkart.com/big-savings-days-store?otracker=hp_bannerads_1_3.bannerAdCard.BANNERADS_x_IXDMWG58JR9S
+https://www.flipkart.com/big-savings-days-store?otracker=hp_bannerads_1_3.bannerAdCard.BANNERADS_x_IXDMWG58JR9S is a valid link
+https://www.flipkart.com/offers-list/recommended-for-you?screen=dynamic&pk=contentTags%3Dhome_appliances_furniture~marketplace%3DFLIPKART~widgetType%3DdealCard~contentType%3DpersonalisedRecommendation%2FC5&marketplace=FLIPKART&wid=4.dealCard.OMU_3&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_wc_view-all_3
+https://www.flipkart.com/offers-list/recommended-for-you?screen=dynamic&pk=contentTags%3Dhome_appliances_furniture~marketplace%3DFLIPKART~widgetType%3DdealCard~contentType%3DpersonalisedRecommendation%2FC5&marketplace=FLIPKART&wid=4.dealCard.OMU_3&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_wc_view-all_3 is a valid link
+https://www.flipkart.com/oven-toaster-grills-otg/pr?sid=j9e,m38,vr5&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D20%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_1_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_1_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/oven-toaster-grills-otg/pr?sid=j9e,m38,vr5&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D20%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_1_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_1_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_vr5__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_vr5_%3Bet%3AS%3Beid%3Aj9e_m38_vr5_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/tables/pr?sid=wwe,ki7&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D50%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_2_4.dealCard.OMU_cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_2_NA_view-all_3&cid=cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/tables/pr?sid=wwe,ki7&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D50%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_2_4.dealCard.OMU_cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_2_NA_view-all_3&cid=cid%3AS_F_N_wwe_ki7__d_50-100__NONE_ALL%3Bnid%3Awwe_ki7_%3Bet%3AS%3Beid%3Awwe_ki7_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/tv-entertainment-units/pr?sid=wwe,243,koe&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D40%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_3_4.dealCard.OMU_cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_3_NA_view-all_3&cid=cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/tv-entertainment-units/pr?sid=wwe,243,koe&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D40%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_3_4.dealCard.OMU_cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_3_NA_view-all_3&cid=cid%3AS_F_N_wwe_243_koe__d_40-100__NONE_ALL%3Bnid%3Awwe_243_koe_%3Bet%3AS%3Beid%3Awwe_243_koe_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/sofas/pr?sid=wwe,c3z&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D40%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_4_4.dealCard.OMU_cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_4_NA_view-all_3&cid=cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/sofas/pr?sid=wwe,c3z&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D40%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_4_4.dealCard.OMU_cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_4_NA_view-all_3&cid=cid%3AS_F_N_wwe_c3z__d_40-100__NONE_ALL%3Bnid%3Awwe_c3z_%3Bet%3AS%3Beid%3Awwe_c3z_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/kitchen-cabinets/pr?sid=wwe,6by,9dn&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_5_4.dealCard.OMU_cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_5_NA_view-all_3&cid=cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/kitchen-cabinets/pr?sid=wwe,6by,9dn&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_5_4.dealCard.OMU_cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_5_NA_view-all_3&cid=cid%3AS_F_N_wwe_6by_9dn__d_30-100__NONE_ALL%3Bnid%3Awwe_6by_9dn_%3Bet%3AS%3Beid%3Awwe_6by_9dn_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/vacuum-cleaners/pr?sid=j9e,abm,ul2&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_6_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_6_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/vacuum-cleaners/pr?sid=j9e,abm,ul2&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_6_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_6_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_ul2__d_30-100__NONE_ALL%3Bnid%3Aj9e_abm_ul2_%3Bet%3AS%3Beid%3Aj9e_abm_ul2_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/dining-tables/pr?sid=wwe,ur9,ysz&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_7_4.dealCard.OMU_cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_7_NA_view-all_3&cid=cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/dining-tables/pr?sid=wwe,ur9,ysz&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_7_4.dealCard.OMU_cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_7_NA_view-all_3&cid=cid%3AS_F_N_wwe_ur9_ysz__d_30-100__NONE_ALL%3Bnid%3Awwe_ur9_ysz_%3Bet%3AS%3Beid%3Awwe_ur9_ysz_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/refrigerators/pr?sid=j9e,abm,hzg&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D10%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_8_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_8_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/refrigerators/pr?sid=j9e,abm,hzg&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D10%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_8_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_8_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_hzg__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_hzg_%3Bet%3AS%3Beid%3Aj9e_abm_hzg_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/chimneys/pr?sid=j9e,m38,tgz&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D50%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_9_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_9_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/chimneys/pr?sid=j9e,m38,tgz&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D50%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_9_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_9_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_tgz__d_50-100__NONE_ALL%3Bnid%3Aj9e_m38_tgz_%3Bet%3AS%3Beid%3Aj9e_m38_tgz_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/washing-machines-dryers/pr?sid=j9e,abm,8qx&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D10%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_10_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_10_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/washing-machines-dryers/pr?sid=j9e,abm,8qx&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D10%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_10_4.dealCard.OMU_cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_10_NA_view-all_3&cid=cid%3AS_F_N_j9e_abm_8qx__d_10-100__NONE_ALL%3Bnid%3Aj9e_abm_8qx_%3Bet%3AS%3Beid%3Aj9e_abm_8qx_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/beds/pr?sid=wwe,7p7,4yf&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_11_4.dealCard.OMU_cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_11_NA_view-all_3&cid=cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/beds/pr?sid=wwe,7p7,4yf&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D30%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_11_4.dealCard.OMU_cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_11_NA_view-all_3&cid=cid%3AS_F_N_wwe_7p7_4yf__d_30-100__NONE_ALL%3Bnid%3Awwe_7p7_4yf_%3Bet%3AS%3Beid%3Awwe_7p7_4yf_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/microwave-ovens/pr?sid=j9e,m38,o49&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D20%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_12_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_12_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B
+https://www.flipkart.com/microwave-ovens/pr?sid=j9e,m38,o49&marketplace=FLIPKART&p[]=facets.discount_range_v1%5B%5D%3D20%25+or+more&restrictLocale=true&fm=personalisedRecommendation%2FC5&iid=R%3Ag%3Bpt%3Ahp%3Buid%3Ae5cf2059-ec69-11eb-b1ff-7763fced45fd%3B.cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_reco_Home%2BAppliances%2B%2526%2BFurniture_12_4.dealCard.OMU_cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B_3&otracker1=hp_reco_SECTIONED_manualRanking_personalisedRecommendation%2FC5_Home%2BAppliances%2B%2526%2BFurniture_DESKTOP_HORIZONTAL_dealCard_cc_12_NA_view-all_3&cid=cid%3AS_F_N_j9e_m38_o49__d_20-100__NONE_ALL%3Bnid%3Aj9e_m38_o49_%3Bet%3AS%3Beid%3Aj9e_m38_o49_%3Bmp%3AF%3Bct%3Ad%3B is a valid link
+https://www.flipkart.com/tv-and-appliances-big-savings-days-store?param=76533&otracker=hp_rhs_announcement_1_5.rhsAnnouncement.RHS_ANNOUNCEMENT_AYDSZX1BHJKI
+https://www.flipkart.com/tv-and-appliances-big-savings-days-store?param=76533&otracker=hp_rhs_announcement_1_5.rhsAnnouncement.RHS_ANNOUNCEMENT_AYDSZX1BHJKI is a valid link
+https://www.flipkart.com/offers-list/topoffers?screen=dynamic&pk=themeViews%3DBSDBookOffers%3ABSDBookOffersapp%2CBSDBookOffers%3ABSDBookOffersdesk~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU&otracker=hp_banner_1_7.bannerX3.BANNER_WU6LXW94P2ME&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.WU6LXW94P2ME&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952
+https://www.flipkart.com/offers-list/topoffers?screen=dynamic&pk=themeViews%3DBSDBookOffers%3ABSDBookOffersapp%2CBSDBookOffers%3ABSDBookOffersdesk~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU&otracker=hp_banner_1_7.bannerX3.BANNER_WU6LXW94P2ME&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.WU6LXW94P2ME&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952 is a valid link
+https://www.flipkart.com/washing-machines/~featured-deals-on-washing-machines/pr?sid=j9e%2Cabm%2C8qx&sort=popularity&otracker=hp_banner_2_7.bannerX3.BANNER_JKT9RTCP1RBR&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.JKT9RTCP1RBR&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952
+https://www.flipkart.com/washing-machines/~featured-deals-on-washing-machines/pr?sid=j9e%2Cabm%2C8qx&sort=popularity&otracker=hp_banner_2_7.bannerX3.BANNER_JKT9RTCP1RBR&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.JKT9RTCP1RBR&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952 is a valid link
+https://www.flipkart.com/furniture-furniturestudio-store?otracker=hp_banner_3_7.bannerX3.BANNER_VFDSZPZMLGKK&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.VFDSZPZMLGKK&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952
+https://www.flipkart.com/furniture-furniturestudio-store?otracker=hp_banner_3_7.bannerX3.BANNER_VFDSZPZMLGKK&fm=neo%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_7.VFDSZPZMLGKK&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952 is a valid link
+https://www.flipkart.com/offers-list/headphones-speakers?screen=dynamic&pk=themeViews%3DAudio-New-Whitelisted%3ADT~widgetType%3DdealCard~contentType%3Dneon&wid=10.dealCard.OMU_6&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_wc_view-all_6
+https://www.flipkart.com/offers-list/headphones-speakers?screen=dynamic&pk=themeViews%3DAudio-New-Whitelisted%3ADT~widgetType%3DdealCard~contentType%3Dneon&wid=10.dealCard.OMU_6&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_wc_view-all_6 is a valid link
+https://www.flipkart.com/audio-video/speakers/~cs-jihyuzrqme/pr?sid=0pm%2C0o7&p%5B%5D=facets.type%255B%255D%3DMobile%252FTablet%2BSpeaker&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.400EQ4ZHRTZ8&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_1_10.dealCard.OMU_400EQ4ZHRTZ8_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_1_NA_view-all_6&cid=400EQ4ZHRTZ8
+https://www.flipkart.com/audio-video/speakers/~cs-jihyuzrqme/pr?sid=0pm%2C0o7&p%5B%5D=facets.type%255B%255D%3DMobile%252FTablet%2BSpeaker&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.400EQ4ZHRTZ8&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_1_10.dealCard.OMU_400EQ4ZHRTZ8_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_1_NA_view-all_6&cid=400EQ4ZHRTZ8 is a valid link
+https://www.flipkart.com/audio-video/headphones/~cs-0ee3srae6c/pr?sid=0pm%2Cfcn&p%5B%5D=facets.price_range.from%3DMin&sort=popularity&p%5B%5D=facets.price_range.to%3D1000&p%5B%5D=facets.connectivity%255B%255D%3DBluetooth&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.6PVF5PR18T87&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_2_10.dealCard.OMU_6PVF5PR18T87_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_2_NA_view-all_6&cid=6PVF5PR18T87
+https://www.flipkart.com/audio-video/headphones/~cs-0ee3srae6c/pr?sid=0pm%2Cfcn&p%5B%5D=facets.price_range.from%3DMin&sort=popularity&p%5B%5D=facets.price_range.to%3D1000&p%5B%5D=facets.connectivity%255B%255D%3DBluetooth&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.6PVF5PR18T87&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_2_10.dealCard.OMU_6PVF5PR18T87_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_2_NA_view-all_6&cid=6PVF5PR18T87 is a valid link
+https://www.flipkart.com/audio-video/video-accessories/remote-controllers/pr?sid=0pm%2Cq9n%2Ce9p&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D499&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.B3X77IT1O4KY&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_3_10.dealCard.OMU_B3X77IT1O4KY_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_3_NA_view-all_6&cid=B3X77IT1O4KY
+https://www.flipkart.com/audio-video/video-accessories/remote-controllers/pr?sid=0pm%2Cq9n%2Ce9p&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.rating%255B%255D%3D4%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D499&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.B3X77IT1O4KY&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_3_10.dealCard.OMU_B3X77IT1O4KY_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_3_NA_view-all_6&cid=B3X77IT1O4KY is a valid link
+https://www.flipkart.com/audio-video/headphones/~cs-53mrbtcuf5/pr?sid=0pm%2Cfcn&p%5B%5D=facets.headphone_type%255B%255D%3DOn%2Bthe%2BEar&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&hpid=d48KtMPuOGR_vZ-IkjpeuKp7_Hsxr70nj65vMAAFKlc=&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.PH246SI7OLAG&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_4_10.dealCard.OMU_PH246SI7OLAG_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_4_NA_view-all_6&cid=PH246SI7OLAG
+https://www.flipkart.com/audio-video/headphones/~cs-53mrbtcuf5/pr?sid=0pm%2Cfcn&p%5B%5D=facets.headphone_type%255B%255D%3DOn%2Bthe%2BEar&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&hpid=d48KtMPuOGR_vZ-IkjpeuKp7_Hsxr70nj65vMAAFKlc=&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.PH246SI7OLAG&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_4_10.dealCard.OMU_PH246SI7OLAG_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_4_NA_view-all_6&cid=PH246SI7OLAG is a valid link
+https://www.flipkart.com/audio-video/headphones/~cs-jihyuzrqme/pr?sid=0pm%2Cfcn&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.FA2BKTE58ALF&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_5_10.dealCard.OMU_FA2BKTE58ALF_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_5_NA_view-all_6&cid=FA2BKTE58ALF
+https://www.flipkart.com/audio-video/headphones/~cs-jihyuzrqme/pr?sid=0pm%2Cfcn&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.FA2BKTE58ALF&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_5_10.dealCard.OMU_FA2BKTE58ALF_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_5_NA_view-all_6&cid=FA2BKTE58ALF is a valid link
+https://www.flipkart.com/audio-video/headphones/~cs-0ee3srae6c/pr?sid=0pm%2Cfcn&p%5B%5D=facets.connectivity%255B%255D%3DWired&sort=popularity&p%5B%5D=facets.rating%255B%255D%3D3%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D400&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.IRUCYAOZXKLV&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_6_10.dealCard.OMU_IRUCYAOZXKLV_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_6_NA_view-all_6&cid=IRUCYAOZXKLV
+https://www.flipkart.com/audio-video/headphones/~cs-0ee3srae6c/pr?sid=0pm%2Cfcn&p%5B%5D=facets.connectivity%255B%255D%3DWired&sort=popularity&p%5B%5D=facets.rating%255B%255D%3D3%25E2%2598%2585%2B%2526%2Babove&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D400&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.IRUCYAOZXKLV&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_6_10.dealCard.OMU_IRUCYAOZXKLV_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_6_NA_view-all_6&cid=IRUCYAOZXKLV is a valid link
+https://www.flipkart.com/audio-video/speakers/pr?sid=0pm%2C0o7&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&param=1&p%5B%5D=facets.type%255B%255D%3DSoundbar&p%5B%5D=facets.brand%255B%255D%3DPhilips&p%5B%5D=facets.brand%255B%255D%3DSony&p%5B%5D=facets.brand%255B%255D%3DJBL&p%5B%5D=facets.brand%255B%255D%3DboAt&p%5B%5D=facets.brand%255B%255D%3DMarQ%2Bby%2BFlipkart&p%5B%5D=facets.brand%255B%255D%3DMi&p%5B%5D=facets.brand%255B%255D%3DBlaupunkt&p%5B%5D=facets.brand%255B%255D%3DSamsung&p%5B%5D=facets.brand%255B%255D%3DZebronics&p%5B%5D=facets.brand%255B%255D%3DBose&p%5B%5D=facets.brand%255B%255D%3Diball&p%5B%5D=facets.brand%255B%255D%3DPortronics&p%5B%5D=facets.brand%255B%255D%3DPolk%2BAudio&p%5B%5D=facets.brand%255B%255D%3DLG&p%5B%5D=facets.brand%255B%255D%3DThomson&p%5B%5D=facets.brand%255B%255D%3DSansui&p%5B%5D=facets.brand%255B%255D%3DiBall&p%5B%5D=facets.brand%255B%255D%3DCloudWalker&p%5B%5D=facets.brand%255B%255D%3DF%2526D&p%5B%5D=facets.brand%255B%255D%3DMitashi&p%5B%5D=facets.brand%255B%255D%3DGizmore&p%5B%5D=facets.brand%255B%255D%3DDenon&p%5B%5D=facets.brand%255B%255D%3DCreative&p%5B%5D=facets.brand%255B%255D%3DAnt%2BAudio&p%5B%5D=facets.brand%255B%255D%3DAmkette&p%5B%5D=facets.brand%255B%255D%3DIBall&p%5B%5D=facets.brand%255B%255D%3Dlg&p%5B%5D=facets.brand%255B%255D%3DGIZMORE&p%5B%5D=facets.brand%255B%255D%3DMotorola&hpid=TTrz2shT8eSlA3rSbxNS8ap7_Hsxr70nj65vMAAFKlc=&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.1IDKJH9R9G0T&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_7_10.dealCard.OMU_1IDKJH9R9G0T_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_7_NA_view-all_6&cid=1IDKJH9R9G0T
+https://www.flipkart.com/audio-video/speakers/pr?sid=0pm%2C0o7&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&param=1&p%5B%5D=facets.type%255B%255D%3DSoundbar&p%5B%5D=facets.brand%255B%255D%3DPhilips&p%5B%5D=facets.brand%255B%255D%3DSony&p%5B%5D=facets.brand%255B%255D%3DJBL&p%5B%5D=facets.brand%255B%255D%3DboAt&p%5B%5D=facets.brand%255B%255D%3DMarQ%2Bby%2BFlipkart&p%5B%5D=facets.brand%255B%255D%3DMi&p%5B%5D=facets.brand%255B%255D%3DBlaupunkt&p%5B%5D=facets.brand%255B%255D%3DSamsung&p%5B%5D=facets.brand%255B%255D%3DZebronics&p%5B%5D=facets.brand%255B%255D%3DBose&p%5B%5D=facets.brand%255B%255D%3Diball&p%5B%5D=facets.brand%255B%255D%3DPortronics&p%5B%5D=facets.brand%255B%255D%3DPolk%2BAudio&p%5B%5D=facets.brand%255B%255D%3DLG&p%5B%5D=facets.brand%255B%255D%3DThomson&p%5B%5D=facets.brand%255B%255D%3DSansui&p%5B%5D=facets.brand%255B%255D%3DiBall&p%5B%5D=facets.brand%255B%255D%3DCloudWalker&p%5B%5D=facets.brand%255B%255D%3DF%2526D&p%5B%5D=facets.brand%255B%255D%3DMitashi&p%5B%5D=facets.brand%255B%255D%3DGizmore&p%5B%5D=facets.brand%255B%255D%3DDenon&p%5B%5D=facets.brand%255B%255D%3DCreative&p%5B%5D=facets.brand%255B%255D%3DAnt%2BAudio&p%5B%5D=facets.brand%255B%255D%3DAmkette&p%5B%5D=facets.brand%255B%255D%3DIBall&p%5B%5D=facets.brand%255B%255D%3Dlg&p%5B%5D=facets.brand%255B%255D%3DGIZMORE&p%5B%5D=facets.brand%255B%255D%3DMotorola&hpid=TTrz2shT8eSlA3rSbxNS8ap7_Hsxr70nj65vMAAFKlc=&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.1IDKJH9R9G0T&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_7_10.dealCard.OMU_1IDKJH9R9G0T_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_7_NA_view-all_6&cid=1IDKJH9R9G0T is a valid link
+https://www.flipkart.com/offers-list/content?screen=dynamic&pk=themeViews%3DBBD-Aud-HA%3AAPP%2CBBD-Aud-HA%3ADt~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU&param=1&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.P609B89YTJQM&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_8_10.dealCard.OMU_P609B89YTJQM_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_8_NA_view-all_6&cid=P609B89YTJQM
+https://www.flipkart.com/offers-list/content?screen=dynamic&pk=themeViews%3DBBD-Aud-HA%3AAPP%2CBBD-Aud-HA%3ADt~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU&param=1&fm=neon%2Fmerchandising&iid=M_77fe1607-4961-49ea-8d88-98a0bc0dad1c_25.P609B89YTJQM&ppt=None&ppn=None&ssid=zcn44ew7400000001627122513952&otracker=hp_omu_Headphones%2B%2526%2BSpeakers_8_10.dealCard.OMU_P609B89YTJQM_6&otracker1=hp_omu_WHITELISTED_neon%2Fmerchandising_Headphones%2B%2526%2BSpeakers_NA_dealCard_cc_8_NA_view-all_6&cid=P609B89YTJQM is a valid link
+https://www.flipkart.com/brands
+https://www.flipkart.com/brands is a broken link
+https://www.flipkart.com/flipkart-quick-store?marketplace=HYPERLOCAL&otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-quick-store?marketplace=HYPERLOCAL&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/tv-and-appliances-shop-from-home-days-store?otracker=undefined_footer_footer
+https://www.flipkart.com/tv-and-appliances-shop-from-home-days-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grand-home-appliances-sale-store?otracker=undefined_footer_footer
+https://www.flipkart.com/grand-home-appliances-sale-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-super-cooling-days-2021-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-super-cooling-days-2021-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-bigscreen-tvs-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-bigscreen-tvs-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/tv-and-appliances-big-savings-days-store?otracker=undefined_footer_footer
+https://www.flipkart.com/tv-and-appliances-big-savings-days-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/precious-jewellery-akshaya-tritiya-may-2021-store?otracker=undefined_footer_footer
+https://www.flipkart.com/precious-jewellery-akshaya-tritiya-may-2021-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/ed-a-mamma~brand/pr?sid=clo&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/ed-a-mamma~brand/pr?sid=clo&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/books-store?otracker=undefined_footer_footer
+https://www.flipkart.com/books-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-electronics-sale-tv-and-appliances-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-electronics-sale-tv-and-appliances-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-cooling-days-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-cooling-days-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/ac-cooling-days-2021-store?otracker=undefined_footer_footer
+https://www.flipkart.com/ac-cooling-days-2021-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/fkcd-2021-ref-store?otracker=undefined_footer_footer
+https://www.flipkart.com/fkcd-2021-ref-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grand-kitchen-sale-store?otracker=undefined_footer_footer
+https://www.flipkart.com/grand-kitchen-sale-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/all-auto-accessories-store?otracker=undefined_footer_footer
+https://www.flipkart.com/all-auto-accessories-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/sunglasses/streak-specsmakers~brand/pr?sid=26x&otracker=undefined_footer_footer
+https://www.flipkart.com/sunglasses/streak-specsmakers~brand/pr?sid=26x&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/plus?otracker=undefined_footer_footer
+https://www.flipkart.com/plus?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/supercoin?otracker=undefined_footer_footer
+https://www.flipkart.com/supercoin?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/covid-insurance-store?otracker=undefined_footer_footer
+https://www.flipkart.com/covid-insurance-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_footer
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/helpcentre/trackOrder/i/2?otracker=undefined_footer_footer
+https://www.flipkart.com/helpcentre/trackOrder/i/2?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/helpcentre/manageOrder/i/3?otracker=undefined_footer_footer
+https://www.flipkart.com/helpcentre/manageOrder/i/3?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/helpcentre/returnOrder/i/4?otracker=undefined_footer_footer
+https://www.flipkart.com/helpcentre/returnOrder/i/4?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/all-auto-accessories-store?otracker=undefined_footer_footer
+https://www.flipkart.com/all-auto-accessories-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/health-care/eye-care/contact-lens/pr?sid=hlc%2Cwwq%2Cfvh&otracker=undefined_footer_footer
+https://www.flipkart.com/health-care/eye-care/contact-lens/pr?sid=hlc%2Cwwq%2Cfvh&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/the-gift-card-store?otracker=undefined_footer_footer
+https://www.flipkart.com/the-gift-card-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/super-fan-store?otracker=undefined_footer_footer
+https://www.flipkart.com/super-fan-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/sarees?otracker=undefined_footer_footer
+https://www.flipkart.com/q/sarees?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-axis-bank-credit-card-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-axis-bank-credit-card-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/watch-videos-online-store?otracker=undefined_footer_footer
+https://www.flipkart.com/watch-videos-online-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-pay-later-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-pay-later-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/redmi-8-onyx-black-64-gb/p/itmaf669d074ff27?otracker=undefined_footer_footer
+https://www.flipkart.com/redmi-8-onyx-black-64-gb/p/itmaf669d074ff27?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/honor-20i-phantom-blue-128-gb/p/itmfggkamk5q4y9x?otracker=undefined_footer_footer
+https://www.flipkart.com/honor-20i-phantom-blue-128-gb/p/itmfggkamk5q4y9x?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-k1-astral-blue-64-gb/p/itmfdy9keddxqvbt?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-k1-astral-blue-64-gb/p/itmfdy9keddxqvbt?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/flipkart-axis-bank-credit-card-store?otracker=undefined_footer_footer
+https://www.flipkart.com/flipkart-axis-bank-credit-card-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/earrings/pr?sid=mcr,96v,k9d&otracker=undefined_footer_footer
+https://www.flipkart.com/earrings/pr?sid=mcr,96v,k9d&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-watches-store?otracker=undefined_footer_footer
+https://www.flipkart.com/mens-watches-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/jewellery/~silver-coins/pr?sid=mcr&otracker=undefined_footer_footer
+https://www.flipkart.com/jewellery/~silver-coins/pr?sid=mcr&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/jewellery/pr?sid=mcr&otracker=undefined_footer_footer
+https://www.flipkart.com/jewellery/pr?sid=mcr&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/watches/pr?sid=r18&otracker=undefined_footer_footer
+https://www.flipkart.com/watches/pr?sid=r18&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mangalsutra/pr?sid=mcr,96v,t4i,0f4&otracker=undefined_footer_footer
+https://www.flipkart.com/mangalsutra/pr?sid=mcr,96v,t4i,0f4&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/sunglasses/pr?sid=26x&otracker=undefined_footer_footer
+https://www.flipkart.com/sunglasses/pr?sid=26x&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/sunglasses/mi~brand/pr?sid=26x&otracker=undefined_footer_footer
+https://www.flipkart.com/sunglasses/mi~brand/pr?sid=26x&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/backpacks/pr?sid=reh%2C4d7%2Cak9&otracker=undefined_footer_footer
+https://www.flipkart.com/backpacks/pr?sid=reh%2C4d7%2Cak9&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/sunglasses/ray-ban~brand/pr?sid=26x&otracker=undefined_footer_footer
+https://www.flipkart.com/sunglasses/ray-ban~brand/pr?sid=26x&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-12-white-64-gb/p/itm8b88bdc03cd79?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-12-pro-graphite-512-gb/p/itmdf0ffb4f2150f?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-12-blue-128-gb/p/itm02853ae92e90a?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-12-blue-128-gb/p/itm02853ae92e90a?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-y91i-fusion-black-32-gb/p/itmff6vsadyrbauf?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-y91i-fusion-black-32-gb/p/itmff6vsadyrbauf?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-y11-mineral-blue-32-gb/p/itmb764fb6d6ef60?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-y11-mineral-blue-32-gb/p/itmb764fb6d6ef60?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-y15-aqua-blue-64-gb/p/itmfgadf77s87w8x?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-y15-aqua-blue-64-gb/p/itmfgadf77s87w8x?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-y50-pearl-white-128-gb/p/itmd0dcc06ffbe06?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-y50-pearl-white-128-gb/p/itmd0dcc06ffbe06?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-y12-burgundy-red-64-gb/p/itmfhyjvucp5mueg?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-y12-burgundy-red-64-gb/p/itmfhyjvucp5mueg?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-reno2-f-lake-green-256-gb/p/itm8413e7eb0b195?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-reno2-f-lake-green-256-gb/p/itm8413e7eb0b195?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-a12-blue-32-gb/p/itmfc859cdf39e01?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-a12-blue-32-gb/p/itmfc859cdf39e01?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-f15-blazing-blue-128-gb/p/itm56d35565691ea?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-f15-blazing-blue-128-gb/p/itm56d35565691ea?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-a31-fantasy-white-64-gb/p/itm82e19f459118a?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-a31-fantasy-white-64-gb/p/itm82e19f459118a?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/samsung-galaxy-a71-prism-crush-blue-128-gb/p/itmb719fd01880e3?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-galaxy-a51-prism-crush-blue-128-gb/p/itme8079f0fedb33?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-galaxy-a51-prism-crush-blue-128-gb/p/itme8079f0fedb33?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/samsung-galaxy-a31-prism-crush-white-128-gb/p/itma110137399bdc?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-galaxy-a31-prism-crush-white-128-gb/p/itma110137399bdc?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/realme-x2-pearl-green-64-gb/p/itm75023903eb431?otracker=undefined_footer_footer
+https://www.flipkart.com/realme-x2-pearl-green-64-gb/p/itm75023903eb431?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/realme-5-crystal-purple-32-gb/p/itmfj9twbwfznhyk?otracker=undefined_footer_footer
+https://www.flipkart.com/realme-5-crystal-purple-32-gb/p/itmfj9twbwfznhyk?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/infinix-hot-8-quetzal-cyan-64-gb/p/itm176568dde7f63?otracker=undefined_footer_footer
+https://www.flipkart.com/infinix-hot-8-quetzal-cyan-64-gb/p/itm176568dde7f63?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itm2644c3764fc54?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itm2644c3764fc54?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-11-pro-space-grey-64-gb/p/itm7e24c1c560208?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-11-pro-space-grey-64-gb/p/itm7e24c1c560208?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-11-pro-max-gold-64-gb/p/itm6ef18218efdf6?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-11-pro-max-gold-64-gb/p/itm6ef18218efdf6?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mobile-phone-offers-store?otracker=undefined_footer_footer
+https://www.flipkart.com/mobile-phone-offers-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-x-space-gray-64-gb/p/itmexrgv6hctyrav?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-x-space-gray-64-gb/p/itmexrgv6hctyrav?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-8-silver-64-gb/p/itmexrgvsw7vedwq?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-8-silver-64-gb/p/itmexrgvsw7vedwq?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-7-black-32-gb/p/itmen6daftcqwzeg?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/apple-iphone-6-space-grey-32-gb/p/itmetmh3hfhnxtcj?otracker=undefined_footer_footer
+https://www.flipkart.com/apple-iphone-6-space-grey-32-gb/p/itmetmh3hfhnxtcj?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/redmi-5a-gold-16-gb/p/itmfy6cg6a5m7mwh?otracker=undefined_footer_footer
+https://www.flipkart.com/redmi-5a-gold-16-gb/p/itmfy6cg6a5m7mwh?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/4g-mobile-phones-store?otracker=undefined_footer_footer
+https://www.flipkart.com/4g-mobile-phones-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/nokia-mobile-phones-store?otracker=undefined_footer_footer
+https://www.flipkart.com/nokia-mobile-phones-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/samsung-mobile-store?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-mobile-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mobiles/apple~brand/pr?sid=tyy,4io&otracker=undefined_footer_footer
+https://www.flipkart.com/mobiles/apple~brand/pr?sid=tyy,4io&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/oppo-mobile-phones-store?otracker=undefined_footer_footer
+https://www.flipkart.com/oppo-mobile-phones-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/vivo-mobile-phones-store?otracker=undefined_footer_footer
+https://www.flipkart.com/vivo-mobile-phones-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc?otracker=undefined_footer_footer
+https://www.flipkart.com/gopro-hero-sports-action-camera/p/itmf3s4abpfgawhc?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/cameras/nikon~brand/pr?sid=jek,p31&otracker=undefined_footer_footer
+https://www.flipkart.com/cameras/nikon~brand/pr?sid=jek,p31&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/cameras/canon~brand/pr?sid=jek,p31&otracker=undefined_footer_footer
+https://www.flipkart.com/cameras/canon~brand/pr?sid=jek,p31&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/sony-cameras?otracker=undefined_footer_footer
+https://www.flipkart.com/q/sony-cameras?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/canon-dslr-cameras?otracker=undefined_footer_footer
+https://www.flipkart.com/q/canon-dslr-cameras?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/cameras/dslr-mirrorless/nikon~brand/pr?sid=jek,p31,trv&otracker=undefined_footer_footer
+https://www.flipkart.com/cameras/dslr-mirrorless/nikon~brand/pr?sid=jek,p31,trv&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/microsoft-surface-go-pentium-gold-4-gb-64-gb-emmc-storage-windows-10-home-s-mode-1824-2-1-laptop/p/itmfb6pyegb9vgck?otracker=undefined_footer_footer
+https://www.flipkart.com/microsoft-surface-go-pentium-gold-4-gb-64-gb-emmc-storage-windows-10-home-s-mode-1824-2-1-laptop/p/itmfb6pyegb9vgck?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/microsoft-surface-go-pentium-gold-8-gb-128-gb-ssd-windows-10-home-s-mode-1824-2-1-laptop/p/itmfb6pyjzy9y8n4?otracker=undefined_footer_footer
+https://www.flipkart.com/microsoft-surface-go-pentium-gold-8-gb-128-gb-ssd-windows-10-home-s-mode-1824-2-1-laptop/p/itmfb6pyjzy9y8n4?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops-store?otracker=undefined_footer_footer
+https://www.flipkart.com/laptops-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/apple~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/apple~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/acer~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/acer~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/lenovo~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/lenovo~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/dell~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/dell~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/asus~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/asus~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/hp~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/hp~brand/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/gaming/gaming-laptops/pr?sid=4rr,tz1&otracker=undefined_footer_footer
+https://www.flipkart.com/gaming/gaming-laptops/pr?sid=4rr,tz1&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/laptops/~2-in-1-laptops/pr?sid=6bo,b5g&otracker=undefined_footer_footer
+https://www.flipkart.com/laptops/~2-in-1-laptops/pr?sid=6bo,b5g&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/computers/~business-laptops/pr?sid=6bo&otracker=undefined_footer_footer
+https://www.flipkart.com/computers/~business-laptops/pr?sid=6bo&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/motorola~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/motorola~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/redmi-smart-tvs?otracker=undefined_footer_footer
+https://www.flipkart.com/q/redmi-smart-tvs?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/oneplus~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/oneplus~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/launching-realme-sled-4k-smart-tv-store?otracker=undefined_footer_footer
+https://www.flipkart.com/launching-realme-sled-4k-smart-tv-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mi-led-smart-tv-4x-108-cm-43/p/itmab87244d2fead?otracker=undefined_footer_footer
+https://www.flipkart.com/mi-led-smart-tv-4x-108-cm-43/p/itmab87244d2fead?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mi-led-smart-tv-4a-100-cm-40/p/itmaaa9224388773?otracker=undefined_footer_footer
+https://www.flipkart.com/mi-led-smart-tv-4a-100-cm-40/p/itmaaa9224388773?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mi-led-smart-tv-4x-163-9-cm-65/p/itm4b78549a6a25e?otracker=undefined_footer_footer
+https://www.flipkart.com/mi-led-smart-tv-4x-163-9-cm-65/p/itm4b78549a6a25e?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/samsung-7-in-1-80cm-32-inch-hd-ready-led-smart-tv/p/itmfga98hypx8wzc?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-7-in-1-80cm-32-inch-hd-ready-led-smart-tv/p/itmfga98hypx8wzc?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/lg~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/lg~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/television-store?otracker=undefined_footer_footer
+https://www.flipkart.com/television-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/sony~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/sony~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/samsung~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/samsung~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mi-led-smart-tv-4a-pro-123-2-cm-49/p/itmfcp72rrahu6vf?pid=TVSFCP72GZYESDHF&otracker=undefined_footer_footer
+https://www.flipkart.com/mi-led-smart-tv-4a-pro-123-2-cm-49/p/itmfcp72rrahu6vf?pid=TVSFCP72GZYESDHF&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/android-tv-store?otracker=undefined_footer_footer
+https://www.flipkart.com/android-tv-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/iffalcon-by-tcl-smart-tvs-launch-store?otracker=undefined_footer_footer
+https://www.flipkart.com/iffalcon-by-tcl-smart-tvs-launch-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/televisions/mi~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer
+https://www.flipkart.com/televisions/mi~brand/pr?sid=ckf,czl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/voltas~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/voltas~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/hitachi~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/hitachi~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/lloyd~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/lloyd~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/blue-star~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/blue-star~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/daikin~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/daikin~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/air-conditioners/lg~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer
+https://www.flipkart.com/air-conditioners/lg~brand/pr?sid=j9e,abm,c54&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/refrigerators/samsung~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer
+https://www.flipkart.com/refrigerators/samsung~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/refrigerators/haier~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer
+https://www.flipkart.com/refrigerators/haier~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/refrigerators/whirlpool~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer
+https://www.flipkart.com/refrigerators/whirlpool~brand/pr?sid=j9e,abm,hzg&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-shirts/pr?sid=clo%2Cash%2Caxc%2Cmmk&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-ethnic-sets/kurta-and-pyjama-set~type/pr?sid=clo%2Ccfv%2Citg%2Cpme&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-ethnic-sets/kurta-and-pyjama-set~type/pr?sid=clo%2Ccfv%2Citg%2Cpme&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-tshirts/pr?sid=clo%2Cash%2Cank%2Cedy&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-tshirts/pr?sid=clo%2Cash%2Cank%2Cedy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-jeans/pr?sid=clo%2Cvua%2Ck58%2Ci51&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-jeans/pr?sid=clo%2Cvua%2Ck58%2Ci51&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-tops/crop-top~type/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-tops/crop-top~type/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/raincoats/men-and-women-raincoats/pr?sid=clo%2Cmz5%2Cjbj&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/raincoats/men-and-women-raincoats/pr?sid=clo%2Cmz5%2Cjbj&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/blazers-waistcoats-and-suits/suits/mens-readymade-suits/pr?sid=clo%2Cupk%2Csxw%2Cdoc&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/blazers-waistcoats-and-suits/suits/mens-readymade-suits/pr?sid=clo%2Cupk%2Csxw%2Cdoc&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-trousers/pr?sid=clo%2Cvua%2Cmle%2Clhk&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-trousers/pr?sid=clo%2Cvua%2Cmle%2Clhk&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/blazers/pr?sid=clo%2Cupk%2Cfj9%2Cqd3&otracker=undefined_footer_footer
+https://www.flipkart.com/blazers/pr?sid=clo%2Cupk%2Cfj9%2Cqd3&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/sarees?otracker=undefined_footer_footer
+https://www.flipkart.com/q/sarees?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/floral-print~pattern/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/floral-print~pattern/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-skirts/pr?sid=clo%2Cvua%2Ciku%2Cw5t&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-skirts/pr?sid=clo%2Cvua%2Ciku%2Cw5t&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/dresses-and-gowns/dresses/kids-dresses/pr?sid=clo%2Codx%2Cmaj%2Czc1&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/dresses-and-gowns/dresses/kids-dresses/pr?sid=clo%2Codx%2Cmaj%2Czc1&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/designer-salwar-suits?otracker=undefined_footer_footer
+https://www.flipkart.com/q/designer-salwar-suits?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/bras/pr?sid=clo%2Cqfl%2Cv5v%2Ckzg&otracker=undefined_footer_footer
+https://www.flipkart.com/bras/pr?sid=clo%2Cqfl%2Cv5v%2Ckzg&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/designer-kurtis?otracker=undefined_footer_footer
+https://www.flipkart.com/q/designer-kurtis?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-track-pants/pr?sid=clo%2Cvua%2Cjlk%2C6ql&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/kurtas/mens-kurtas/pr?sid=clo%2Ccfv%2Ccib%2Cjks&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/kurtas/mens-kurtas/pr?sid=clo%2Ccfv%2Ccib%2Cjks&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/womens-gym-wear?otracker=undefined_footer_footer
+https://www.flipkart.com/q/womens-gym-wear?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/party~occasion/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/party~occasion/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-ethnic-sets/kurta-and-palazzo-set~type/pr?sid=clo%2Ccfv%2Citg%2Ctys&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-ethnic-sets/kurta-and-palazzo-set~type/pr?sid=clo%2Ccfv%2Citg%2Ctys&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/boys-clothing?otracker=undefined_footer_footer
+https://www.flipkart.com/q/boys-clothing?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/winter-wear/gloves/mens-gloves/pr?sid=clo%2Cqvw%2Ctog%2Cjvu&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/winter-wear/gloves/mens-gloves/pr?sid=clo%2Cqvw%2Ctog%2Cjvu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-night-dresses-and-nighties/pr?sid=clo%2C1hc%2Ckc4%2Cnmu&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-night-dresses-and-nighties/pr?sid=clo%2C1hc%2Ckc4%2Cnmu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/maxi~type/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/maxi~type/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-gowns/anarkali~type/pr?sid=clo%2Codx%2Cod7%2C0xx&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-gowns/anarkali~type/pr?sid=clo%2Codx%2Cod7%2C0xx&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/indo-western-dress?otracker=undefined_footer_footer
+https://www.flipkart.com/q/indo-western-dress?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-gowns/pr?sid=clo%2Codx%2Cod7%2C0xx&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-gowns/pr?sid=clo%2Codx%2Cod7%2C0xx&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/culottes?otracker=undefined_footer_footer
+https://www.flipkart.com/q/culottes?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-sherwanis/pr?sid=clo%2Ccfv%2Cdra%2Cbrt&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-sherwanis/pr?sid=clo%2Ccfv%2Cdra%2Cbrt&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/kids-girls-clothing?otracker=undefined_footer_footer
+https://www.flipkart.com/q/kids-girls-clothing?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/salwar-suit?otracker=undefined_footer_footer
+https://www.flipkart.com/q/salwar-suit?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-tops/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-tops/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-lehenga-cholis/pr?sid=clo%2Chlg%2Cwrp&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-lehenga-cholis/pr?sid=clo%2Chlg%2Cwrp&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/dress-materials/pr?sid=clo%2Cqfi%2Cxcx%2Cms4&otracker=undefined_footer_footer
+https://www.flipkart.com/dress-materials/pr?sid=clo%2Cqfi%2Cxcx%2Cms4&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/indo-western-mens?otracker=undefined_footer_footer
+https://www.flipkart.com/q/indo-western-mens?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo%2Ccfv%2Ccib%2Crkt&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-kurtas-kurtis/pr?sid=clo%2Ccfv%2Ccib%2Crkt&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/designer-sarees?otracker=undefined_footer_footer
+https://www.flipkart.com/q/designer-sarees?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/~summer-dresses/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/~summer-dresses/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/leggings?otracker=undefined_footer_footer
+https://www.flipkart.com/q/leggings?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/designer-blouses?otracker=undefined_footer_footer
+https://www.flipkart.com/q/designer-blouses?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/blouse-designs?otracker=undefined_footer_footer
+https://www.flipkart.com/q/blouse-designs?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/banarasi~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/banarasi~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/pure-silk~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/pure-silk~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/tissue-silk~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/tissue-silk~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/pure-cotton~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/pure-cotton~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-shorts/pr?sid=clo%2Cvua%2Ce8g%2Ckc7&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-shorts/pr?sid=clo%2Cvua%2Ce8g%2Ckc7&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-blouse-materials/pr?sid=clo%2C8on%2C5n9%2Chny&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-blouse-materials/pr?sid=clo%2C8on%2C5n9%2Chny&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-skirts/full-length~length/pr?sid=clo%2Cvua%2Ciku%2Cw5t&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-skirts/full-length~length/pr?sid=clo%2Cvua%2Ciku%2Cw5t&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/palazzo-pants?otracker=undefined_footer_footer
+https://www.flipkart.com/q/palazzo-pants?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/winter-jackets?otracker=undefined_footer_footer
+https://www.flipkart.com/q/winter-jackets?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-track-pants/joggers~theme/pr?sid=clo%2Cvua%2Cjlk%2C6ql&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-track-pants/joggers~theme/pr?sid=clo%2Cvua%2Cjlk%2C6ql&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-dresses/mini-short~length/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-dresses/mini-short~length/pr?sid=clo%2Codx%2Cmaj%2Cjhy&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-night-suits/pr?sid=clo%2C1hc%2C5d2%2Ccny&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-night-suits/pr?sid=clo%2C1hc%2C5d2%2Ccny&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/banarsi-suit?otracker=undefined_footer_footer
+https://www.flipkart.com/q/banarsi-suit?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/innerwear-and-swimwear/pr?sid=clo%2Cqfl&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/innerwear-and-swimwear/pr?sid=clo%2Cqfl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/sports-wear?otracker=undefined_footer_footer
+https://www.flipkart.com/q/sports-wear?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/clothing-accessories/caps/mens-caps/pr?sid=clo%2Cqd8%2Cy9u%2Cgy0&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/clothing-accessories/caps/mens-caps/pr?sid=clo%2Cqd8%2Cy9u%2Cgy0&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/chanderi~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/chanderi~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/linen-sarees?otracker=undefined_footer_footer
+https://www.flipkart.com/q/linen-sarees?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/paithani~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/paithani~type/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-tops/off-shoulder-top~type/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-tops/off-shoulder-top~type/pr?sid=clo%2Cash%2Cohw%2C36j&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-panties/pr?sid=clo%2Cqfl%2Cq5u%2Cla2&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-panties/pr?sid=clo%2Cqfl%2Cq5u%2Cla2&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/girls-shorts?otracker=undefined_footer_footer
+https://www.flipkart.com/q/girls-shorts?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-shrugs/pr?sid=clo%2Cqvw%2Cvvr%2Csyu&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-shrugs/pr?sid=clo%2Cqvw%2Cvvr%2Csyu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-salwars-and-patialas/pr?sid=clo%2Ccfv%2C1n0%2Cops&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-salwars-and-patialas/pr?sid=clo%2Ccfv%2C1n0%2Cops&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/girls-dresses?otracker=undefined_footer_footer
+https://www.flipkart.com/q/girls-dresses?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/bikini?otracker=undefined_footer_footer
+https://www.flipkart.com/q/bikini?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/sleepwear/pyjamas-and-lounge-pants/womens-pyjamas-and-lounge-pants/pr?sid=clo%2C1hc%2Ca7m%2Caz8&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/sleepwear/pyjamas-and-lounge-pants/womens-pyjamas-and-lounge-pants/pr?sid=clo%2C1hc%2Ca7m%2Caz8&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/kids-wear?otracker=undefined_footer_footer
+https://www.flipkart.com/q/kids-wear?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/kurtas/mens-kurtas/manyavar~brand/pr?sid=clo%2Ccfv%2Ccib%2Cjks&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/kurtas-ethnic-sets-and-bottoms/kurtas/mens-kurtas/manyavar~brand/pr?sid=clo%2Ccfv%2Ccib%2Cjks&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/womens-trousers/pr?sid=clo%2Cvua%2Cmle%2C8ie&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/bottomwear/trousers/womens-trousers/pr?sid=clo%2Cvua%2Cmle%2C8ie&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-jackets/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-jackets/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/western-wear?otracker=undefined_footer_footer
+https://www.flipkart.com/q/western-wear?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-jackets/levi-s~brand/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-jackets/levi-s~brand/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/sleepwear/pr?sid=clo%2C1hc&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/sleepwear/pr?sid=clo%2C1hc&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/winter-wear/shawls/womens-shawls/pr?sid=clo%2Cqvw%2Ckpn%2C9pk&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/winter-wear/shawls/womens-shawls/pr?sid=clo%2Cqvw%2Ckpn%2C9pk&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/cardigans?otracker=undefined_footer_footer
+https://www.flipkart.com/q/cardigans?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/pullover?otracker=undefined_footer_footer
+https://www.flipkart.com/q/pullover?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/clothing-accessories/stoles/womens-stoles/pr?sid=clo%2Cqd8%2C90q%2Cq07&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/clothing-accessories/stoles/womens-stoles/pr?sid=clo%2Cqd8%2C90q%2Cq07&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/denim-jackets?otracker=undefined_footer_footer
+https://www.flipkart.com/q/denim-jackets?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/leather-jackets?otracker=undefined_footer_footer
+https://www.flipkart.com/q/leather-jackets?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/pr?sid=clo&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/pr?sid=clo&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/kids-clothing?otracker=undefined_footer_footer
+https://www.flipkart.com/q/kids-clothing?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/winter-wear/pr?sid=clo%2Cqvw&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/winter-wear/pr?sid=clo%2Cqvw&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/clothing-and-accessories/winter-wear/scarves/pr?sid=clo%2Cqvw%2Cmgw&otracker=undefined_footer_footer
+https://www.flipkart.com/clothing-and-accessories/winter-wear/scarves/pr?sid=clo%2Cqvw%2Cmgw&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-jackets/sports~theme/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-jackets/sports~theme/pr?sid=clo%2Cqvw%2Cz0g%2Cjbm&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-sarees/georgette~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-sarees/georgette~fabric/pr?sid=clo%2C8on%2Czpd%2C9og&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/ethnic-wear?otracker=undefined_footer_footer
+https://www.flipkart.com/q/ethnic-wear?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-briefs-and-trunks/pr?sid=clo%2Cqfl%2Cszr%2C3xl&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-briefs-and-trunks/pr?sid=clo%2Cqfl%2Cszr%2C3xl&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-sweatshirts/pr?sid=clo%2Cqvw%2C64a%2Cvui&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-sweatshirts/pr?sid=clo%2Cqvw%2C64a%2Cvui&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-shoes-store?otracker=undefined_footer_footer
+https://www.flipkart.com/mens-shoes-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/sports-shoes/adidas~brand/pr?sid=osp,cil,1cu&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/sports-shoes/adidas~brand/pr?sid=osp,cil,1cu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/reebok~brand/pr?sid=osp,cil&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/reebok~brand/pr?sid=osp,cil&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/nike~brand/pr?sid=osp,cil&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/nike~brand/pr?sid=osp,cil&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/puma~brand/pr?sid=osp,cil&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/puma~brand/pr?sid=osp,cil&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/casual-shoes/boots~type/pr?sid=osp,cil,e1f&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/casual-shoes/boots~type/pr?sid=osp,cil,e1f&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/bata-shoes?otracker=undefined_footer_footer
+https://www.flipkart.com/q/bata-shoes?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/woodland-shoes?otracker=undefined_footer_footer
+https://www.flipkart.com/q/woodland-shoes?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/skechers~brand/pr?sid=osp,cil&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/skechers~brand/pr?sid=osp,cil&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/casual-shoes/sneakers~type/pr?sid=osp%2Ccil%2Ce1f&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/casual-shoes/sneakers~type/pr?sid=osp%2Ccil%2Ce1f&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-footwear/boots/pr?sid=osp,iko,xgp&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-footwear/boots/pr?sid=osp,iko,xgp&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/sports-shoes/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/sports-shoes/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/casual-shoes/loafers~type/pr?sid=osp%2Ccil%2Ce1f&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/casual-shoes/loafers~type/pr?sid=osp%2Ccil%2Ce1f&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/sandals-floaters/pr?sid=osp%2Ccil%2Ce83&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/sandals-floaters/pr?sid=osp%2Ccil%2Ce83&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/sports-shoes/lotto~brand/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/sports-shoes/lotto~brand/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/casual-shoes/pr?sid=osp,cil,e1f&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/casual-shoes/pr?sid=osp,cil,e1f&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/womens-footwear/skechers~brand/pr?sid=osp,iko&otracker=undefined_footer_footer
+https://www.flipkart.com/womens-footwear/skechers~brand/pr?sid=osp,iko&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/sports-shoes/asics~brand/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/sports-shoes/asics~brand/pr?sid=osp%2Ccil%2C1cu&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/mens-footwear/formal-shoes/pr?sid=osp,cil,ssb&otracker=undefined_footer_footer
+https://www.flipkart.com/mens-footwear/formal-shoes/pr?sid=osp,cil,ssb&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/school-shoes?otracker=undefined_footer_footer
+https://www.flipkart.com/q/school-shoes?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/redeem-flipkart-grocery-coupon-voucher-phonepe-store?marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/redeem-flipkart-grocery-coupon-voucher-phonepe-store?marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-wash/pr?sid=73z%2Cnjl%2Csn6%2C6vr&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-wash/pr?sid=73z%2Cnjl%2Csn6%2C6vr&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/sugar-jaggery-salt/pr?sid=73z,bpe,fdl&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/sugar-jaggery-salt/pr?sid=73z,bpe,fdl&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/rice-rice-products/pr?sid=73z%2Cbpe%2Czwp&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/rice-rice-products/pr?sid=73z%2Cbpe%2Czwp&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/masalas-spices/pr?sid=73z,bpe,a6m&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/masalas-spices/pr?sid=73z,bpe,a6m&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dals-pulses/pr?sid=73z%2Cbpe%2C3uv&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dals-pulses/pr?sid=73z%2Cbpe%2C3uv&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/atta-flours/pr?sid=73z,bpe,9da&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/atta-flours/pr?sid=73z,bpe,9da&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/biscuits/cookies/pr?sid=73z,ujs,eb9,7j9&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/biscuits/cookies/pr?sid=73z,ujs,eb9,7j9&marketplace=GROCERY&otracker=undefined_footer_footer is a broken link
+https://www.flipkart.com/grocery/packaged-food/noodles-pasta/noodles/pr?sid=73z%2Cu0u%2Cltz%2Clgo&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/packaged-food/noodles-pasta/noodles/pr?sid=73z%2Cu0u%2Cltz%2Clgo&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/ghee-oils/ghee/pr?sid=73z,bpe,4wu,um4&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/ghee-oils/ghee/pr?sid=73z,bpe,4wu,um4&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/pr?sid=73z,bpe,dtp&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/pr?sid=73z,bpe,dtp&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dals-pulses/toor-dal/pr?sid=73z,bpe,3uv,xby&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dals-pulses/toor-dal/pr?sid=73z,bpe,3uv,xby&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/ghee-oils/olive-oil/pr?sid=73z,bpe,4wu,hne&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/ghee-oils/olive-oil/pr?sid=73z,bpe,4wu,hne&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/soaps/pr?sid=73z%2Cnjl%2Csn6%2Cr6y&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/soaps/pr?sid=73z%2Cnjl%2Csn6%2Cr6y&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/cashew-nuts/pr?sid=73z%2Cbpe%2Cdtp%2Cghn&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/cashew-nuts/pr?sid=73z%2Cbpe%2Cdtp%2Cghn&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/ghee-oils/sunflower-oil/pr?sid=73z,bpe,4wu,4vo&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/ghee-oils/sunflower-oil/pr?sid=73z,bpe,4wu,4vo&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/dairy-eggs/eggs/pr?sid=73z%2Cesa%2Chh7&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/dairy-eggs/eggs/pr?sid=73z%2Cesa%2Chh7&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/toilet-cleaners/pr?sid=73z,cwl,u3c,ijq&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/toilet-cleaners/pr?sid=73z,cwl,u3c,ijq&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/toilet-cleaners/harpic~brand/pr?sid=73z%2Ccwl%2Cu3c%2Cijq&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/toilet-cleaners/harpic~brand/pr?sid=73z%2Ccwl%2Cu3c%2Cijq&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/soaps/dettol~brand/pr?sid=73z,njl,sn6,r6y&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/soaps/dettol~brand/pr?sid=73z,njl,sn6,r6y&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/ghee-oils/mustard-oil/pr?sid=73z%2Cbpe%2C4wu%2Ctmu&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/ghee-oils/mustard-oil/pr?sid=73z%2Cbpe%2C4wu%2Ctmu&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/biscuits/pr?sid=73z%2Cujs%2Ceb9&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/biscuits/pr?sid=73z%2Cujs%2Ceb9&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/dairy-eggs/dairy/cheese/pr?sid=73z%2Cesa%2Cdt6%2C4ku&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/dairy-eggs/dairy/cheese/pr?sid=73z%2Cesa%2Cdt6%2C4ku&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/atta-flours/wheat-atta/patanjali~brand/pr?sid=73z%2Cbpe%2C9da%2C1fd&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/atta-flours/wheat-atta/patanjali~brand/pr?sid=73z%2Cbpe%2C9da%2C1fd&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/ghee-oils/sunflower-oil/fortune~brand/pr?sid=73z,bpe,4wu,4vo&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/ghee-oils/sunflower-oil/fortune~brand/pr?sid=73z,bpe,4wu,4vo&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/atta-flours/wheat-atta/aashirvaad~brand/pr?sid=73z%2Cbpe%2C9da%2C1fd&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/atta-flours/wheat-atta/aashirvaad~brand/pr?sid=73z%2Cbpe%2C9da%2C1fd&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/dairy-eggs/dairy/butter-spreads/pr?sid=73z%2Cesa%2Cdt6%2Ctvn&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/dairy-eggs/dairy/butter-spreads/pr?sid=73z%2Cesa%2Cdt6%2Ctvn&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/dairy-eggs/dairy/milk/amul~brand/pr?sid=73z%2Cesa%2Cdt6%2C6ep&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/dairy-eggs/dairy/milk/amul~brand/pr?sid=73z%2Cesa%2Cdt6%2C6ep&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/juices/pr?sid=73z,ujs,afd&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/juices/pr?sid=73z,ujs,afd&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/tea/tea/tata~brand/pr?sid=73z,ujs,amr,wl9&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/tea/tea/tata~brand/pr?sid=73z,ujs,amr,wl9&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery-essentials-store?otracker=undefined_footer_footer
+https://www.flipkart.com/grocery-essentials-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/packaged-food/breakfast-cereals/muesli/pr?sid=73z,u0u,bx9,bmr&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/packaged-food/breakfast-cereals/muesli/pr?sid=73z,u0u,bx9,bmr&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/packaged-food/breakfast-cereals/pr?sid=73z,u0u,bx9&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/packaged-food/breakfast-cereals/pr?sid=73z,u0u,bx9&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-wash/pr?sid=73z%2Cnjl%2Csn6%2C6vr&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-wash/pr?sid=73z%2Cnjl%2Csn6%2C6vr&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-sanitizer/pr?sid=73z%2Cnjl%2Csn6%2C14m&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/soaps-body-wash/hand-sanitizer/pr?sid=73z%2Cnjl%2Csn6%2C14m&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/floor-cleaners/lizol~brand/pr?sid=73z%2Ccwl%2Cu3c%2C9p4&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/household-care/floor-other-cleaners/floor-cleaners/lizol~brand/pr?sid=73z%2Ccwl%2Cu3c%2C9p4&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/household-care/detergents-laundry/detergents/pr?sid=73z,cwl,2z2,heu&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/household-care/detergents-laundry/detergents/pr?sid=73z,cwl,2z2,heu&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/chips-namkeen-snacks/chips/pr?sid=73z,ujs,dd9,m0l&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/chips-namkeen-snacks/chips/pr?sid=73z,ujs,dd9,m0l&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/tea/pr?sid=73z%2Cujs%2Camr&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/tea/pr?sid=73z%2Cujs%2Camr&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/dairy-eggs/dairy/milk/pr?sid=73z%2Cesa%2Cdt6%2C6ep&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/dairy-eggs/dairy/milk/pr?sid=73z%2Cesa%2Cdt6%2C6ep&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/packaged-food/chocolates-sweets/chocolates/pr?sid=73z%2Cu0u%2C7o6%2Cmzu&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/packaged-food/chocolates-sweets/chocolates/pr?sid=73z%2Cu0u%2C7o6%2Cmzu&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/soft-drinks/pr?sid=73z%2Cujs%2Cdfw&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/soft-drinks/pr?sid=73z%2Cujs%2Cdfw&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/atta-flours/rava-sooji/pr?sid=73z%2Cbpe%2C9da%2Crsd&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/atta-flours/rava-sooji/pr?sid=73z%2Cbpe%2C9da%2Crsd&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/coffee/pr?sid=73z%2Cujs%2Ct7k&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/coffee/pr?sid=73z%2Cujs%2Ct7k&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/rice-rice-products/sona-masoori-rice/pr?sid=73z,bpe,zwp,tx2&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/rice-rice-products/sona-masoori-rice/pr?sid=73z,bpe,zwp,tx2&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/madhur-sugar/p/itmevjgp3vsgg77p?pid=SUGEUD25B6YCCNGM&lid=LSTSUGEUD25B6YCCNGMY5B3MB&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/madhur-sugar/p/itmevjgp3vsgg77p?pid=SUGEUD25B6YCCNGM&lid=LSTSUGEUD25B6YCCNGMY5B3MB&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/oral-care/toothpaste/colgate~brand/pr?sid=73z%2Cnjl%2C2s3%2Cu0i&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/oral-care/toothpaste/colgate~brand/pr?sid=73z%2Cnjl%2C2s3%2Cu0i&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/personal-baby-care/hair-care/shampoo/pr?sid=73z%2Cnjl%2Cvpw%2Cpi9&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/personal-baby-care/hair-care/shampoo/pr?sid=73z%2Cnjl%2Cvpw%2Cpi9&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/almonds/pr?sid=73z%2Cbpe%2Cdtp%2Cyf3&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dry-fruits-nuts-seeds/almonds/pr?sid=73z%2Cbpe%2Cdtp%2Cyf3&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/staples/dals-pulses/moong-dal/pr?sid=73z%2Cbpe%2C3uv%2Ccu3&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/staples/dals-pulses/moong-dal/pr?sid=73z%2Cbpe%2C3uv%2Ccu3&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/coffee/instant-coffee/pr?sid=73z%2Cujs%2Ct7k%2Crlk&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/coffee/instant-coffee/pr?sid=73z%2Cujs%2Ct7k%2Crlk&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/grocery/snacks-beverages/chips-namkeen-snacks/namkeen/parle~brand/pr?sid=73z%2Cujs%2Cdd9%2Cw66&marketplace=GROCERY&otracker=undefined_footer_footer
+https://www.flipkart.com/grocery/snacks-beverages/chips-namkeen-snacks/namkeen/parle~brand/pr?sid=73z%2Cujs%2Cdd9%2Cw66&marketplace=GROCERY&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/samsung-galaxy-tab-s7-128-gb-12-4-inch-wi-fi-4g-tablet-mystic-black/p/itm9e78d01ec71a2?otracker=undefined_footer_footer
+https://www.flipkart.com/samsung-galaxy-tab-s7-128-gb-12-4-inch-wi-fi-4g-tablet-mystic-black/p/itm9e78d01ec71a2?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/books-store?otracker=undefined_footer_footer
+https://www.flipkart.com/books-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/toysclp-store?otracker=undefined_footer_footer
+https://www.flipkart.com/toysclp-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/home-decor/diyas-candles-holders/candles/pr?sid=arb,mvm,p0s&otracker=undefined_footer_footer
+https://www.flipkart.com/home-decor/diyas-candles-holders/candles/pr?sid=arb,mvm,p0s&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/automotive/car-bike-accessories/helmets-riding-gear/helmets-locks/helmets/pr?sid=0hx,bwd,bgt,c0x,wnn&otracker=undefined_footer_footer
+https://www.flipkart.com/automotive/car-bike-accessories/helmets-riding-gear/helmets-locks/helmets/pr?sid=0hx,bwd,bgt,c0x,wnn&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/home-decor/clocks/wall-clocks/pr?sid=arb,kjw,bm1&otracker=undefined_footer_footer
+https://www.flipkart.com/home-decor/clocks/wall-clocks/pr?sid=arb,kjw,bm1&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/baby-care/baby-food/pr?sid=kyh,arw&otracker=undefined_footer_footer
+https://www.flipkart.com/baby-care/baby-food/pr?sid=kyh,arw&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/food-nutrition/confectioneries-sweets/chocolates/pr?sid=7jv,iyp,s4n&otracker=undefined_footer_footer
+https://www.flipkart.com/food-nutrition/confectioneries-sweets/chocolates/pr?sid=7jv,iyp,s4n&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/sports/cycling/cycles/pr?sid=abc,ulv,ixt&otracker=undefined_footer_footer
+https://www.flipkart.com/sports/cycling/cycles/pr?sid=abc,ulv,ixt&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/pens-stationery/calculators/pr?sid=dgv,qtq&otracker=undefined_footer_footer
+https://www.flipkart.com/pens-stationery/calculators/pr?sid=dgv,qtq&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/beauty-and-grooming/makeup/lips/lipstick/pr?sid=g9b,ffi,tv5,una&otracker=undefined_footer_footer
+https://www.flipkart.com/beauty-and-grooming/makeup/lips/lipstick/pr?sid=g9b,ffi,tv5,una&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/watches/fastrack~brand/pr?sid=r18&otracker=undefined_footer_footer
+https://www.flipkart.com/watches/fastrack~brand/pr?sid=r18&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/bags-wallets-belts/wallets-clutches/wallets/pr?sid=reh%2Ccca%2Ch76&otracker=undefined_footer_footer
+https://www.flipkart.com/bags-wallets-belts/wallets-clutches/wallets/pr?sid=reh%2Ccca%2Ch76&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/earrings/pr?sid=mcr,96v,k9d&otracker=undefined_footer_footer
+https://www.flipkart.com/earrings/pr?sid=mcr,96v,k9d&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer
+https://www.flipkart.com/jewellery/~gold-coins/pr?sid=mcr&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/women-handbags-store?otracker=undefined_footer_footer
+https://www.flipkart.com/women-handbags-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture-grandfurnituresale-store?otracker=undefined_footer_footer
+https://www.flipkart.com/furniture-grandfurnituresale-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture-store?otracker=undefined_footer_footer
+https://www.flipkart.com/furniture-store?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/beds/pr?sid=wwe,7p7&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/beds/pr?sid=wwe,7p7&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/dining-tables-sets/pr?sid=wwe,ur9&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/wardrobes/pr?sid=wwe,fc3&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/wardrobes/pr?sid=wwe,fc3&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/mattresses/pr?sid=wwe,rg9&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/mattresses/pr?sid=wwe,rg9&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/tv-units-cabinets/pr?sid=wwe,243&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/tv-units-cabinets/pr?sid=wwe,243&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/tables/pr?sid=wwe,ki7&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/tables/pr?sid=wwe,ki7&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/chairs/pr?sid=wwe,y7b&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/chairs/pr?sid=wwe,y7b&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/shelves/pr?sid=wwe,vmc&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/shelves/pr?sid=wwe,vmc&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/bean-bags/pr?sid=wwe,4n6&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/bean-bags/pr?sid=wwe,4n6&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/chairs/office-study-chairs/pr?sid=wwe,y7b,foc&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/chairs/office-study-chairs/pr?sid=wwe,y7b,foc&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/q/computer-tables?otracker=undefined_footer_footer
+https://www.flipkart.com/q/computer-tables?otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/tables/office-study-table/pr?sid=wwe,ki7,l1t&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/tables/office-study-table/pr?sid=wwe,ki7,l1t&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/red~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/red~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/beds/beds/wakefit~brand/pr?sid=wwe,7p7,4yf&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/beds/beds/wakefit~brand/pr?sid=wwe,7p7,4yf&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/white~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/white~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/mattresses/wakefit~brand/pr?sid=wwe%2Crg9&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/mattresses/wakefit~brand/pr?sid=wwe%2Crg9&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/green~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/green~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/black~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/black~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/furniture/sofas/sofa-sets/brown~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer
+https://www.flipkart.com/furniture/sofas/sofa-sets/brown~primary-color/pr?sid=wwe,c3z,r0c&otracker=undefined_footer_footer is a valid link
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_navlinks
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/about-us?otracker=undefined_footer_navlinks
+https://www.flipkart.com/about-us?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkartcareers.com/?otracker=undefined_footer_navlinks
+http://stories.flipkart.com/?otracker=undefined_footer_navlinks
+http://stories.flipkart.com/?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/s/press?otracker=undefined_footer_navlinks
+https://www.flipkart.com/s/press?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkartwholesale.com/?otracker=undefined_footer_navlinks
+https://www.flipkartwholesale.com/?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/payments
+https://www.flipkart.com/pages/payments is a valid link
+https://www.flipkart.com/pages/shipping
+https://www.flipkart.com/pages/shipping is a valid link
+https://www.flipkart.com/helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG
+https://www.flipkart.com/helpcentre?catalog=55c9c6edb000002e002c1701&view=CATALOG is a valid link
+https://www.flipkart.com/helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG
+https://www.flipkart.com/helpcentre?catalog=55c9c8e2b0000023002c1702&view=CATALOG is a valid link
+https://seller.flipkart.com/fiv?otracker=undefined_footer_navlinks
+https://seller.flipkart.com/fiv?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/returnpolicy?otracker=undefined_footer_navlinks
+https://www.flipkart.com/pages/returnpolicy?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/terms?otracker=undefined_footer_navlinks
+https://www.flipkart.com/pages/terms?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/paymentsecurity?otracker=undefined_footer_navlinks
+https://www.flipkart.com/pages/paymentsecurity?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/privacypolicy?otracker=undefined_footer_navlinks
+https://www.flipkart.com/pages/privacypolicy?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/sitemap?otracker=undefined_footer_navlinks
+https://www.flipkart.com/sitemap?otracker=undefined_footer_navlinks is a valid link
+https://www.flipkart.com/pages/ewaste-compliance-tnc?otracker=undefined_footer_navlinks
+https://www.flipkart.com/pages/ewaste-compliance-tnc?otracker=undefined_footer_navlinks is a valid link
+https://www.facebook.com/flipkart
+https://www.facebook.com/flipkart is a valid link
+https://www.twitter.com/flipkart
+https://www.twitter.com/flipkart is a valid link
+https://www.youtube.com/flipkart
+https://www.youtube.com/flipkart is a valid link
+tel:18002029898
+https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect
+https://seller.flipkart.com/?utm_source=fkwebsite&utm_medium=websitedirect is a valid link
+https://brands.flipkart.com/
+https://brands.flipkart.com/ is a valid link
+https://www.flipkart.com/the-gift-card-store?otracker=undefined_footer_footer_navlinks
+https://www.flipkart.com/the-gift-card-store?otracker=undefined_footer_footer_navlinks is a valid link
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_footer_navlinks
+https://www.flipkart.com/helpcentre?otracker=undefined_footer_footer_navlinks is a valid link
+null
+URL is either not configured for anchor tag or it is empty
+https://www.flipkart.com/pages/terms
+https://www.flipkart.com/pages/terms is a valid link
+https://www.flipkart.com/pages/privacypolicy
+https://www.flipkart.com/pages/privacypolicy is a valid link
+https://www.flipkart.com/account/login?signup=true
+https://www.flipkart.com/account/login?signup=true is a valid link
+https://www.flipkart.com/?_pxhc=1627122516610
+https://www.flipkart.com/?_pxhc=1627122516610 is a valid link
+]]></system-out>
+  <system-err><![CDATA[java.net.ConnectException: Connection timed out: connect
+	at java.base/sun.nio.ch.Net.connect0(Native Method)
+	at java.base/sun.nio.ch.Net.connect(Net.java:576)
+	at java.base/sun.nio.ch.Net.connect(Net.java:565)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:588)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:645)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:290)
+	at java.base/sun.security.ssl.BaseSSLSocketImpl.connect(BaseSSLSocketImpl.java:174)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:182)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:497)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:600)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:379)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:189)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1232)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1120)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:175)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect0(HttpURLConnection.java:2872)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.followRedirect(HttpURLConnection.java:2782)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1915)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+	at com.flipkart.test.TestBrokenLink.brokenLink(TestBrokenLink.java:70)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:141)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:90)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+javax.net.ssl.SSLHandshakeException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at java.base/sun.security.ssl.Alert.createSSLException(Alert.java:131)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:369)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:312)
+	at java.base/sun.security.ssl.TransportContext.fatal(TransportContext.java:307)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:654)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.onCertificate(CertificateMessage.java:473)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.consume(CertificateMessage.java:369)
+	at java.base/sun.security.ssl.SSLHandshake.consume(SSLHandshake.java:396)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:480)
+	at java.base/sun.security.ssl.HandshakeContext.dispatch(HandshakeContext.java:458)
+	at java.base/sun.security.ssl.TransportContext.dispatch(TransportContext.java:199)
+	at java.base/sun.security.ssl.SSLTransport.decode(SSLTransport.java:171)
+	at java.base/sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1498)
+	at java.base/sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1404)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:441)
+	at java.base/sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:412)
+	at java.base/sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:574)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:183)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:142)
+	at com.flipkart.test.TestBrokenLink.brokenLink(TestBrokenLink.java:68)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:141)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:90)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+Caused by: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at java.base/sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:439)
+	at java.base/sun.security.validator.PKIXValidator.engineValidate(PKIXValidator.java:306)
+	at java.base/sun.security.validator.Validator.validate(Validator.java:264)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkTrusted(X509TrustManagerImpl.java:231)
+	at java.base/sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(X509TrustManagerImpl.java:132)
+	at java.base/sun.security.ssl.CertificateMessage$T12CertificateConsumer.checkServerCerts(CertificateMessage.java:638)
+	... 68 more
+Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+	at java.base/sun.security.provider.certpath.SunCertPathBuilder.build(SunCertPathBuilder.java:141)
+	at java.base/sun.security.provider.certpath.SunCertPathBuilder.engineBuild(SunCertPathBuilder.java:126)
+	at java.base/java.security.cert.CertPathBuilder.build(CertPathBuilder.java:297)
+	at java.base/sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:434)
+	... 73 more
+java.net.MalformedURLException: unknown protocol: tel
+	at java.base/java.net.URL.<init>(URL.java:679)
+	at java.base/java.net.URL.<init>(URL.java:568)
+	at java.base/java.net.URL.<init>(URL.java:515)
+	at com.flipkart.test.TestBrokenLink.brokenLink(TestBrokenLink.java:64)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.runTests(TestNGTestClassProcessor.java:141)
+	at org.gradle.api.internal.tasks.testing.testng.TestNGTestClassProcessor.stop(TestNGTestClassProcessor.java:90)
+	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.stop(SuiteTestClassProcessor.java:61)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
+	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
+	at jdk.proxy1/jdk.proxy1.$Proxy2.stop(Unknown Source)
+	at org.gradle.api.internal.tasks.testing.worker.TestWorker.stop(TestWorker.java:135)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+]]></system-err>
+</testsuite>

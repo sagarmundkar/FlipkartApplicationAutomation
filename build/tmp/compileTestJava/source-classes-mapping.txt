@@ -1,2 +1,6 @@
+com/flipkart/test/TestReadPdfFile.java
+ com.flipkart.test.TestReadPdfFile
 com/flipkart/test/TestPages.java
  com.flipkart.test.TestPages
+com/flipkart/test/TestBrokenLink.java
+ com.flipkart.test.TestBrokenLink
